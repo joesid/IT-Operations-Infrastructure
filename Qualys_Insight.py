@@ -54,7 +54,7 @@ def merge_csv_files():
         "Vulnerability CVE IDs": "Vulnerability CVE IDs",
         "Vulnerability Solution": "Vulnerability Solution",
         "Vulnerability Proof": "Vulnerability Proof",
-        "Vulnerable Since": "Vulnerable Since",
+        "Vulnerability Since": "Vulnerability Test Date",
         "Days": "Days",
         "Status": "Status",
         "Service Port": "Service Port"
